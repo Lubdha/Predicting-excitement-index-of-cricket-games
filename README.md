@@ -16,5 +16,7 @@ The code is compatible with python 3. The following packages are required to run
 Clone the repositopry using:
 git clone https://github.com/Lubdha/Predicting-excitement-index-of-cricket-games.git
 
-Then, run the project by placing all the files from data and source folders in the same directory and execute "numericalclassification.py"
-
+Then, run the project by placing all the files from data and source folders in the same directory and execute 
+~~~
+"numericalclassification.py"
+~~~
